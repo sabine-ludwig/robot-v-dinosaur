@@ -7,7 +7,6 @@ class Robot:
         pass
 
     def attack(self, dinosaur):
-        self.dinosaur = 
+        self.dinosaur = dinosaur
         pass
-
 
