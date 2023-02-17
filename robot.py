@@ -1,7 +1,7 @@
 class Robot:
 
     def __init__(self, name):
-        self.name = input("What would you like your robot's name to be? > ")
+        self.name = name
         self.health = 100
         self.active_weapon = "laser"
         pass
@@ -10,4 +10,4 @@ class Robot:
         self.dinosaur = 
         pass
 
-    
+
